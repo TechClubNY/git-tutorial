@@ -20,8 +20,8 @@
     "intro": "Hi I am a new guy!"
   },
   {
-    "name": "New Guy 2",
-    "intro": "Hi I am a new guy!"
+    "name": "Syed",
+    "intro": "Yo!"
   },
   {
     "name": "New Guy 3",
@@ -62,6 +62,5 @@
   {
     "name": "New Guy 12",
     "intro": "Hi I am a new guy!"
-  }
-  
+  }  
 ]
